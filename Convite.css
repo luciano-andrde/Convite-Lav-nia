@@ -1,0 +1,25 @@
+body {
+  background-color: whitesmoke;
+}
+
+a {
+  justify-self: center;
+}
+
+img {
+  height: 60%;
+  width: 60%;
+}
+
+.center {
+  padding: 35px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.centerImg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
